@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: 'localhost',
-  USER: 'postgres',
+  HOST: 'ec2-100-24-247-137.compute-1.amazonaws.com',
+  USER: 'qawssvxopvwtbi',
   PASSWORD: 'postgres',
-  DB: 'users',
+  DB: 'd3sksq4m11jj7d',
   dialect: 'postgres',
   pool: {
     max: 5,

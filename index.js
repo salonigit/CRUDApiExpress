@@ -11,5 +11,5 @@ db.sequelize.sync()
 app.use(helmet())
 app.use(compression())
 
-app.listen(8080, () => {
+app.listen(5432, () => {
 })
